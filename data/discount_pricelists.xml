@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data noupdate="1">
+    <!-- Create 100 discount pricelists per company on install -->
+    <function model="product.pricelist" name="create_company_discount_pricelists"/>
+  </data>
+</odoo>

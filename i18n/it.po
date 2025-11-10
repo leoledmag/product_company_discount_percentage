@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: product_company_discount_percentage 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-09 00:00+0000\n"
+"PO-Revision-Date: 2025-11-09 00:00+0000\n"
+"Last-Translator: Leonardo Ledesma Maguilla\n"
+"Language-Team: auto\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. field labels and UI strings
+msgid "Company Discounts"
+msgstr "Sconti aziendali"
+
+msgid "Company Discount (%)"
+msgstr "Sconto aziendale (%)"
+
+msgid "Base field for company discount calculation"
+msgstr "Campo base per il calcolo dello sconto aziendale"
+
+msgid "Public Price (list_price)"
+msgstr "Prezzo di listino (list_price)"
+
+msgid "Cost Price (standard_price)"
+msgstr "Prezzo di costo (standard_price)"
+
+msgid "Company Discount"
+msgstr "Sconto aziendale"
+
+msgid "Company Discount Pricelists"
+msgstr "Listini sconti aziendali"
+
+msgid "Choose the product price field used as base for generated discount pricelist items."
+msgstr "Scegli il campo prezzo base per le regole di sconto generate."
+
+msgid "Discount must be between 1 and 100."
+msgstr "Lo sconto deve essere compreso tra 1 e 100."

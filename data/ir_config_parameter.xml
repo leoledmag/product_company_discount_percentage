@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data noupdate="1">
+    <record id="param_company_discount_base_field" model="ir.config_parameter">
+      <field name="key">company_discount_percentage.base_price_field</field>
+      <field name="value">list_price</field>
+    </record>
+  </data>
+</odoo>

@@ -1,0 +1,42 @@
+# Catalan translation for Company Discount Percentage
+msgid ""
+msgstr ""
+"Project-Id-Version: product_company_discount_percentage 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-09 00:00+0000\n"
+"PO-Revision-Date: 2025-11-09 00:00+0000\n"
+"Last-Translator: Leonardo Ledesma Maguilla\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. module: product_company_discount_percentage
+#: model:ir.ui.menu,name:product_company_discount_percentage.menu_company_discount_root
+msgid "Company Discounts"
+msgstr "Descomptes d'empresa"
+
+msgid "Company Discount (%)"
+msgstr "Descompte d'empresa (%)"
+
+msgid "Base field for company discount calculation"
+msgstr "Camp base per al càlcul del descompte d'empresa"
+
+msgid "Public Price (list_price)"
+msgstr "Preu públic (list_price)"
+
+msgid "Cost Price (standard_price)"
+msgstr "Preu de cost (standard_price)"
+
+msgid "Company Discount"
+msgstr "Descompte d'empresa"
+
+msgid "Company Discount Pricelists"
+msgstr "Llistes de preus de descompte d'empresa"
+
+msgid "Choose the product price field used as base for generated discount pricelist items."
+msgstr "Tria el camp de preu del producte utilitzat com a base per a les regles de descompte generades."
+
+msgid "Discount must be between 1 and 100."
+msgstr "El descompte ha d'estar entre 1 i 100."
