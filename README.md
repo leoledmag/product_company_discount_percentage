@@ -3,7 +3,7 @@
 **Author:** Leonardo Ledesma Maguilla  
 **GitHub:** [leoledmag](https://github.com/leoledmag)  
 **License:** LGPL-3  
-**Compatibility:** Odoo 15.0 â†’ 19.0
+**Compatibility:** Odoo 15.0-19.0
 
 ## Overview
 Creates **100 company discount pricelists (1% -> 100%)** per company and applies a per-product discount **by default in Sales** via SO line pricing, without materializing prices.
@@ -20,16 +20,16 @@ Creates **100 company discount pricelists (1% -> 100%)** per company and applies
 2. Update Apps, install **Company Discount Percentage**.
 
 ## Configuration
-**Sales â†’ Settings â†’ Company Discount**  
+**Sales -> Settings -> Company Discount**  
 Pick the base field used in generated pricelist items.
 
 ## Usage
-Set **Company Discount (%)** on the product (1â€“100).  
+Set **Company Discount (%)** on the product (1-100).  
 When adding the product to a Sales Order, the line price is computed using the matching **Company Discount X%** pricelist for the company. If not found, the order pricelist is used.
 
 ## Notes
 - No change to stored product prices.
-- Works across Odoo 15â€“19 core pricelist models.
+- Works across Odoo 15-19 core pricelist models.
 
 ## Contributing
 See `CONTRIBUTING.md`.
