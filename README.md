@@ -6,10 +6,10 @@
 **Compatibility:** Odoo 15.0 â†’ 19.0
 
 ## Overview
-Creates **100 company discount pricelists (1â€“100%)** per company and applies a per-product discount **by default in Sales** via SO line pricing, without materializing prices.
+Creates **100 company discount pricelists (1% -> 100%)** per company and applies a per-product discount **by default in Sales** via SO line pricing, without materializing prices.
 
 ## Features
-- Auto-generate discount pricelists 1â€“100% per company.
+- Auto-generate discount pricelists 1% -> 100% per company.
 - Default discount in Sales based on product field **Company Discount (%)**.
 - Configurable base: `list_price` (default) or `standard_price`.
 - Multi-company, 15 languages, low-priority pricelists.
